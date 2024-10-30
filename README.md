@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.github.com/wiki/zxing/zxing/zxing-logo.png"/>
 
-## Project in Maintenance Mode Only; Barcode Scanner not available
+##   Project in Maintenance Mode Only; Barcode Scanner not available
 
 The project is in maintenance mode, meaning, changes are driven by contributed patches.
 Only bug fixes and minor enhancements will be considered. The Barcode Scanner app can
